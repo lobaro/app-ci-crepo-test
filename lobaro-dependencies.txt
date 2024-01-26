@@ -1,1 +1,1 @@
-git@github.com:lobaro/util-ci-crepo-test.git ../util-ci-crepo-test a1761a3c4ca37afdc12bedbd7b3152c19e243648
+git@github.com:lobaro/util-ci-crepo-test.git ../util-ci-crepo-test 96505726b886808931a19a18e82442a5684877d8
